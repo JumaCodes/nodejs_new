@@ -3,6 +3,15 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"author": {
+		"name": "Steve-John Olumese",
+		"address": "Lagos, Nigeria",
+		"email": "olumesestevejohn@gmail.com",
+		"linkedIn": "www.linkedin.com/in/olumesestevejohn",
+		"twitter": "https://twitter.com/JumaCodes",
+		"number": "+2349151958943",
+		"githubUrl": "https://github.com/JumaCodes/nodejs_new"
+	},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
